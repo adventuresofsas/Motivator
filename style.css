@@ -1,0 +1,62 @@
+
+body {
+  .background-color: black;
+  background-image: url("https://images.pexels.com/photos/1588320/pexels-photo-1588320.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Baskervville', serif;
+}
+
+.grid {
+display: grid;
+grid-template-columns: 1fr 3fr 1fr;
+grid-template-rows: 0.3fr 1fr 0.3fr;
+}
+
+.titleContainer {
+  margin-top: 5em;
+  background-color: black;
+}
+
+.quoteContainer {
+  padding: 1em;
+  background-color: purple;
+}
+
+.buttonContainer {
+  padding: 1em;
+  background-color: gray;
+position: relative;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#motivationDisplay {
+  color: blue;
+  background-color: orange;
+  text-align: center;
+  display: block;
+}
+
+#motivationButton {
+  background-color: green;
+  border: none;
+  border-radius: 10px;
+  padding: 8px;
+  color: yellow;
+  font-size: 1em;
+  text-align: center;
+  text-transform: lowercase;
+  font-family: 'Baskervville', serif;
+  text-decoration: none;
+  margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
