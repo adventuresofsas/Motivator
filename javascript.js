@@ -17,7 +17,8 @@ var quotes = [
   'No one gets remembered for the things they didn\'t do.<br> - Frank Turner',
   'Always look on the bright side of life.<br> - Jezus',
   'Great heroes need great sorrows and burdens, or half their greatness goes unnoticed. It is all part of the fairy tale.<br> - Peter S. Beagle',
-  'Don\'t let the bastards grind you down.<br> - Margaret Atwood'
+  'Don\'t let the bastards grind you down.<br> - Margaret Atwood',
+  'Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.<br /> - Neil Gaiman'
 ]
 
 
